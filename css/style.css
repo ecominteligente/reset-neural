@@ -3861,7 +3861,7 @@ ol {
 .reset-contato__label {
     margin-bottom: 14px;
     color: #B89265;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 600;
     letter-spacing: 2px;
 }
@@ -3920,9 +3920,10 @@ ol {
 .reset-contato__whatsapp small {
     margin-bottom: 4px;
     color: rgba(255,255,255,.8);
-    font-size: 9px;
+    font-size: 10px;
     font-weight: 600;
     letter-spacing: 1.3px;
+	text-align: center;
 }
 
 .reset-contato__whatsapp strong {
